@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name's Peter Prescott. I'm married with three kids :)
+
+Although English by descent, I spent most of my life in Asia (born in the Philippines, then parents moved to Singapore and sent me to boarding schools in Malaysia and India), before going to Cambridge University, where I studied Mathematics and Theology.
+
+I'm now a Machine Learning Engineer at Mellizyme Biotechnology.
+
+On top of that I'm also trying to do a PhD part-time at Liverpool University's Geographic Data Science Lab, researching *geodemographics* -- basically, unsupervised machine learning applied to sociospatial big data.
+
 <!--
 **peterprescott/peterprescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
