@@ -6,7 +6,7 @@ Although English by descent, I spent most of my life in Asia (born in the Philip
 
 I'm now a Machine Learning Engineer at Mellizyme Biotechnology.
 
-On top of that I'm also trying to do a PhD part-time at Liverpool University's Geographic Data Science Lab, researching *geodemographics* -- basically, unsupervised machine learning applied to sociospatial big data.
+I'm also trying to do a PhD part-time at Liverpool University's Geographic Data Science Lab, researching *geodemographics* -- basically, unsupervised machine learning applied to sociospatial big data. The PhD program has included various taught modules, and you can see the various assignments I've done [here](https://github.com/peterprescott/data-analysis-msc).
 
 <!--
 **peterprescott/peterprescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
