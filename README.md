@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Peter Prescott. I'm married with three kids :)
+My name's Peter Prescott. I'm married with four kids :)
 
 Although English by descent, I spent most of my childhood in Asia (born in the Philippines, then parents moved to Singapore and sent me to boarding schools in Malaysia and India), before going to Cambridge University, where I studied Mathematics and Theology.
 
