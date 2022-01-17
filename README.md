@@ -6,4 +6,4 @@ Although English by descent, I spent most of my childhood in Asia (born in the P
 
 I'm now a <strike>Machine Learning Engineer at [Mellizyme Biotechnology](https://www.mellizyme.com)</strike> Data Scientist at [Ninety Percent Of Everything](https://www.90poe.io).
 
-I'm also trying to do a PhD part-time at Liverpool University's Geographic Data Science Lab, researching *geodemographics* -- basically, unsupervised machine learning applied to sociospatial big data. The PhD program has included various taught modules, and you can see the various assignments I've done [here](https://github.com/peterprescott/data-analysis-msc).
+I'm also trying to do a PhD part-time at Liverpool University's Geographic Data Science Lab, researching *geodemographics* -- basically, unsupervised machine learning applied to sociospatial big data. The PhD program has included an integrated Masters with various taught modules, and you can see the various assignments I've done [here](https://github.com/peterprescott/data-science).
